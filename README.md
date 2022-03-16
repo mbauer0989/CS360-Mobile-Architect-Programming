@@ -1,5 +1,5 @@
 # CS360-Mobile-Architect-Programming
-
+Applied mobile development principles and best practices to develop mobile applications using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 The apps requirements were the user needed to be able to register and login as a user. The app needed to allow the user to add weight that was saved and these were displayed to the user. The user needed to be able to edit and delete a weight they entered. The app needed to offer an alert for achieving a target weight by asking for permission to send an SMS message. This app was designed to allow a user to track their weight while trying to achieve a target weight.
 # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
